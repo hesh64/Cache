@@ -133,30 +133,32 @@ class DoublyLinkedList {
   }
 }
 
-function test() {
-  const ll = new DoublyLinkedList();
-  const f = ll.push(1);
-  ll.push(2);
-  const _ = ll.push(12);
-  ll.push(31);
-  ll.push(34);
-  console.log(ll.toString());
-  // console.log(ll.pop(true));
-  // console.log(ll.pop(true));
-  // console.log(ll.pop(true));
-  // console.log(ll.pop(true));
-  ll.pop(f);
-  console.log(ll.toString());
-  console.log(ll.toString(true));
-  ll.pop(_);
-  // console.log(ll.pop(true));
-  // console.log(ll.pop(true));
-  console.log(ll.toString());
-  console.log(ll.toString(true));
-}
-
-test();
 
 module.exports = {
   LinkedNode, DoublyLinkedList,
 };
+//
+//
+// function test() {
+//   const ll = new DoublyLinkedList();
+//   const f = ll.push(1);
+//   ll.push(2);
+//   const _ = ll.push(12);
+//   ll.push(31);
+//   ll.push(34);
+//   console.log(ll.toString());
+//   // console.log(ll.pop(true));
+//   // console.log(ll.pop(true));
+//   // console.log(ll.pop(true));
+//   // console.log(ll.pop(true));
+//   ll.pop(f);
+//   console.log(ll.toString());
+//   console.log(ll.toString(true));
+//   ll.pop(_);
+//   // console.log(ll.pop(true));
+//   // console.log(ll.pop(true));
+//   console.log(ll.toString());
+//   console.log(ll.toString(true));
+// }
+//
+// test();
