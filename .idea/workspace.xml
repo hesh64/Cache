@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17ff3caa-edba-409c-8d38-6c11b7392e8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lfu.cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ds/linkedlist.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/ds/linkedlist.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1tKKgfClgH3tu8kX20RQieu7uWd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.lru.cache.js">
+    <configuration name="linkedlist.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/ds/linkedlist.js" working-dir="$PROJECT_DIR$/src/ds">
+      <method v="2" />
+    </configuration>
+    <configuration name="lru.cache.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/lru.cache.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.lru.cache.js" />
+        <item itemvalue="Node.js.linkedlist.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17ff3caa-edba-409c-8d38-6c11b7392e8d" name="Default Changelist" comment="" />
+      <created>1622512453913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622512453913</updated>
+      <workItem from="1622512455122" duration="8093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1771" height="301" key="GridCell.Tab.0.bottom" timestamp="1622517418598">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1622517418598" />
+    <state width="1771" height="301" key="GridCell.Tab.0.center" timestamp="1622517418597">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1622517418597" />
+    <state width="1771" height="301" key="GridCell.Tab.0.left" timestamp="1622517418597">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1622517418597" />
+    <state width="1771" height="301" key="GridCell.Tab.0.right" timestamp="1622517418597">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1771" height="301" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1622517418597" />
+    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup" timestamp="1622519731081">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="561" y="269" width="670" height="676" key="search.everywhere.popup/0.25.1792.1095@0.25.1792.1095" timestamp="1622519731081" />
+  </component>
+</project>
